@@ -1,0 +1,17 @@
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\bin\Debug\System_Gym.exe.config
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\bin\Debug\System_Gym.exe
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\bin\Debug\System_Gym.pdb
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\bin\Debug\Guna.UI2.dll
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.csproj.SuggestedBindingRedirects.cache
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.Form1.resources
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.Properties.Resources.resources
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.csproj.GenerateResource.cache
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.csproj.CopyComplete
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.exe
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.pdb
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.frm_login.resources
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.frm_register.resources
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.pass_adm.resources
+C:\Users\SISTEMAS01\Desktop\C\System_Gym\System_Gym\obj\Debug\System_Gym.principal.resources
